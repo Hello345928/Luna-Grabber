@@ -82,7 +82,7 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ### 3. Open The Builder.exe File:
 
 ```
-You dont need to install any modules opening setup.bat will install them for you. Then you need to open run.bat as administrator which will
+You dont need to install any modules opening Builder.exe will install them for you. Then you need to open Builder.exe as administrator which will
 open the gui.
 ```
 ### 4. Create A Webhook:
