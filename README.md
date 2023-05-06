@@ -79,7 +79,7 @@ Make sure you have Python installed 3.11+ and it is added to your path
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The setup.bat File:
+### 3. Open The Builder.exe File:
 
 ```
 You dont need to install any modules opening setup.bat will install them for you. Then you need to open run.bat as administrator which will
